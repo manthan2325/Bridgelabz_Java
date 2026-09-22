@@ -1,4 +1,4 @@
-package JavaProgrammingElements.level2;
+
 import java.util.Scanner;
 
 public class trianglearea{

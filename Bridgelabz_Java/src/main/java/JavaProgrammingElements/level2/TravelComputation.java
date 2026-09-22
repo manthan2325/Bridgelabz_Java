@@ -1,4 +1,3 @@
-package JavaProgrammingElements.level3;
 // Create TravelComputation Class to compute the Distance and Travel Time
 import java.util.*;
 
