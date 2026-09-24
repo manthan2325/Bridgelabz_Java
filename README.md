@@ -10,6 +10,15 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 05 - 23 Sep 2026
+**What I have done**
+- Solved all the level 2 Problems on Java Arrays covering 1D and 2D Arrays.
+
+**What I will do**
+- Solve Problems on Java Methods that contains various level questions.
+
+**Issues faced**
+- Tracking the parameters while passing in the methods was a bit difficult.
 
 ### Day 04 - 22 Sep 2026
 **What I have done**
@@ -17,6 +26,7 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 - Pushed the Java Arrays folder to the feature/coreProgramming with level 1 folder.
 **What I will do**
 - Solve Problems on Control flows like for-loops , while loops and if conditional statements, Boolean Operators, Logical Operators.
+
 **Issues faced**
 - getting the right syntax at the time of solving a question was one of the issue faced.
 
@@ -26,6 +36,7 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 - Pushed the Java Control flow folder to the feature/coreProgramming with level 2 and level 3 folders.
 **What I will do**
 - Solve Problems on Control flows like for-loops , while loops and if conditional statements, Boolean Operators, Logical Operators.
+
 **Issues faced**
 - While writing the code tracking the pointers were a bit of difficulty.
 
@@ -35,6 +46,7 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 - Pushed the Java Programming Element folder to the feature/coreProgramming with level 2 and level 3 folders.
 **What I will do**
 - Solve Problems on Control flows like for-loops , while loops and if conditional statements, Boolean Operators, Logical Operators.
+
 **Issues faced**
 - While pushing the code to github i merged the feature/feature_name to develop and entire folder got merged to develop and so i had to revert back
 
@@ -46,5 +58,6 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 **What I will do**
 - Complete the remaining operator problems
 - Start the javaControlFlow package (if-else and switch)
+
 **Issues faced**
 - Setting up things and declaration of functions in Java.
