@@ -10,6 +10,27 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 07 - 25 Sep 2026
+**What I have done**
+- Solved all the level 3 Problems on Java Methods covering Mathematical and Complex Questions.
+- Solved the level 1 on Java Strings 
+
+**What I will do**
+- Solve Problems on Java Strings that contains various level questions.
+
+**Issues faced**
+- Writing logic for mathematical specially using Math Library was a bit difficult.
+
+### Day 06 - 24 Sep 2026
+**What I have done**
+- Solved all the level 1 and level 2 Problems on Java Methods that included multiple operations to be performed.
+
+**What I will do**
+- Solve level 3 Problems on Java Methods that contains various level questions.
+
+**Issues faced**
+- I mainly faced issue with Java Syntax while declaring those methods and passing parameters.
+
 ### Day 05 - 23 Sep 2026
 **What I have done**
 - Solved all the level 2 Problems on Java Arrays covering 1D and 2D Arrays.
