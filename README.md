@@ -10,6 +10,16 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 09 - 29 Sep 2026
+**What I have done**
+- Solved all the level 3 Problems on Java Strings covering various String methods and built-in functions.
+
+**What I will do**
+- Pratice the problems in which i faced difficulty.
+
+**Issues faced**
+- While writing logic for some questions i was able to understand it but had the difficulty to convert it into code.
+
 ### Day 08 - 26 Sep 2026
 **What I have done**
 - Solved all the level 2 Problems on Java Strings covering various String methods.
@@ -55,6 +65,7 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 **What I have done**
 - Solved all the level 1 Problems on Java Arrays covering 1D and 2D Arrays.
 - Pushed the Java Arrays folder to the feature/coreProgramming with level 1 folder.
+
 **What I will do**
 - Solve Problems on Control flows like for-loops , while loops and if conditional statements, Boolean Operators, Logical Operators.
 
@@ -65,6 +76,7 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 **What I have done**
 - Solved all the level 2 and level 3 Problems on Java Control flows covering if-else,for loop,while loop conditional statements.
 - Pushed the Java Control flow folder to the feature/coreProgramming with level 2 and level 3 folders.
+
 **What I will do**
 - Solve Problems on Control flows like for-loops , while loops and if conditional statements, Boolean Operators, Logical Operators.
 
@@ -75,6 +87,7 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 **What I have done**
 - Solved all the level 2 and level 3 Problems on Data Types, Operators, Type conversion, Taking user input, Comments, Variables
 - Pushed the Java Programming Element folder to the feature/coreProgramming with level 2 and level 3 folders.
+
 **What I will do**
 - Solve Problems on Control flows like for-loops , while loops and if conditional statements, Boolean Operators, Logical Operators.
 
@@ -86,6 +99,7 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 - Set up the repository with main, develop and feature branches
 - Solved Basic problems on variables and data types
 (feature/coreProgramming > javaProgrammingElement)
+
 **What I will do**
 - Complete the remaining operator problems
 - Start the javaControlFlow package (if-else and switch)
