@@ -85,7 +85,6 @@ public class Number_Checker_Q5 {
             square = square / 10;
             temp = temp / 10;
         }
-
         return true;
     }
 
