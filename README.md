@@ -10,7 +10,7 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
-### Day 09 - 29 Sep 2026
+### Day 10 - 29 Sep 2026
 **What I have done**
 - Solved all the Extras Problems on Java Strings and Java Methods covering various String methods and built-in functions.
 
