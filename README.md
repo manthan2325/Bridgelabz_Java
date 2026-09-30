@@ -12,6 +12,16 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ### Day 09 - 29 Sep 2026
 **What I have done**
+- Solved all the Extras Problems on Java Strings and Java Methods covering various String methods and built-in functions.
+
+**What I will do**
+- Pratice the problems in which i faced difficulty.
+
+**Issues faced**
+- While writing logic for some questions i was able to understand it but had the difficulty to convert it into code.
+
+### Day 09 - 28 Sep 2026
+**What I have done**
 - Solved all the level 3 Problems on Java Strings covering various String methods and built-in functions.
 
 **What I will do**
