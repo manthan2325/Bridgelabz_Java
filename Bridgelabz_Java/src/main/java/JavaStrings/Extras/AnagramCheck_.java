@@ -28,7 +28,7 @@
 
 import java.util.*;
 
-public class AnagramCheck {
+public class AnagramCheck_ {
 
     // Method to check whether two Strings are anagrams
     public static boolean checkAnagram(String text1, String text2) {
