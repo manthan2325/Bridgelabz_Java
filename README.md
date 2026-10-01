@@ -10,6 +10,27 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 12 - 01 Oct 2026
+**What I have done**
+- Solved all the level 1 and level 2 on Java Constructors.
+
+**What I will do**
+- Pratice Problems on Java staic and Instance Variables and Operator Content.
+
+**Issues faced**
+- Faced issue in Constructor calling and passing arguements.
+
+### Day 11 - 30 Sep 2026
+**What I have done**
+- Solved all the level 1 and level 2 on Object Oriented Programming.
+
+**What I will do**
+- Pratice Problems on Java Constructors.
+
+**Issues faced**
+- Faced issue in access modifiers and object oriented programming fundamentals.
+
+
 ### Day 10 - 29 Sep 2026
 **What I have done**
 - Solved all the Extras Problems on Java Strings and Java Methods covering various String methods and built-in functions.
