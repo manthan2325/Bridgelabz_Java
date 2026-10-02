@@ -1,18 +1,18 @@
 import java.util.*;
 
-class Book{
+class Books{
     private String title;
     private String author;
     private double price;
     private boolean isAvaliable;
 
-    public Book(){
+    public Books(){
         this("Unknown","Unknown",0.0);
     }
-    public Book(String title,String author,double price){
+    public Books(String title,String author,double price){
         this(title,author,price,true);
     }
-    public Book(String title,String author,double price,boolean isAvaliable){
+    public Books(String title,String author,double price,boolean isAvaliable){
         this.title = title;
         this.author = author;
         this.price = price;
@@ -42,7 +42,7 @@ class Book{
     }
 
 }
-public class Library {
+public class LibrarySystem {
     public static void main(String[] args){
 
         Scanner sc = new Scanner(System.in);
@@ -56,7 +56,7 @@ public class Library {
         System.out.println("Enter the price");
         double price = sc.nextDouble();
 
-        Book book = new Book(bookName,authorName,price);
+        Books book = new Books(bookName,authorName,price);
 
         book.display();
 

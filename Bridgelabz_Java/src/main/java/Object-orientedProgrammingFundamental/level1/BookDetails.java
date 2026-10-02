@@ -19,7 +19,7 @@ import java.util.Scanner;
  * Date: 21-09-2026
  */
 
-class Book{
+class Bookk{
     String title;
     String author;
     double price;
@@ -34,7 +34,7 @@ class Book{
 public class BookDetails {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        Book book = new Book();
+        Bookk book = new Bookk();
         System.out.println("enter the book title");
         book.title = sc.next();
 
