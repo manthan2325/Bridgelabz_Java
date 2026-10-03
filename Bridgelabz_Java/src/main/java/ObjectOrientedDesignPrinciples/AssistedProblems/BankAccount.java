@@ -11,28 +11,28 @@ import java.util.*;
 
 class Bank{
     private String name;
-    private ArrayList<Customer> customers;
+    private ArrayList<Customerr> customers;
 
     public Bank(String name){
         this.name = name;
         this.customers = new ArrayList<>();
     }
-    public void openAccount(Customer customer){
+    public void openAccount(Customerr customer){
         customers.add(customer);
         System.out.println("Account opened for " + customer.getName() + ":" + name);
     }
     public void display(){
         System.out.println("The Bank Name is : " + name);
-        for(Customer customer : customers){
+        for(Customerr customer : customers){
             System.out.println(customer.getName());
         }
     }
 }
-class Customer{
+class Customerr{
     private String name;
     private double balance;
 
-    public Customer(String name,double balance){
+    public Customerr(String name,double balance){
         this.name = name;
         this.balance = balance;
     }
@@ -55,7 +55,7 @@ public class BankAccount {
         double balance = sc.nextDouble();
         sc.nextLine();
 
-        Customer customer1 = new Customer(CustomerName, balance);
+        Customerr customer1 = new Customerr(CustomerName, balance);
 
         System.out.println("Enter the Customer Name");
         String CustomerName1  = sc.nextLine();
@@ -63,7 +63,7 @@ public class BankAccount {
         System.out.println("Enter the balance");
         double balance1 = sc.nextDouble();
 
-        Customer customer2 = new Customer(CustomerName1, balance1);
+        Customerr customer2 = new Customerr(CustomerName1, balance1);
 
         Bank bank1 = new Bank("SBI");
         bank1.openAccount(customer1);

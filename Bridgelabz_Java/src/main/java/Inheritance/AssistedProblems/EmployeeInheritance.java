@@ -1,11 +1,11 @@
 import java.util.*;
 
-class Employee{
+class Employee_a{
     protected String name;
     protected String id;
     protected int salary;
 
-    public Employee(String name,String id,int salary){
+    public Employee_a(String name,String id,int salary){
         this.name = name;
         this.id = id;
         this.salary  = salary;
@@ -17,9 +17,9 @@ class Employee{
     }
 }
 
-class Manager extends Employee{
+class Manager_a extends Employee_a{
     private int teamSize;
-    public Manager(String name,String id,int salary,int teamSize){
+    public Manager_a(String name,String id,int salary,int teamSize){
         super(name,id,salary);
         this.teamSize = teamSize;
     }
@@ -31,7 +31,7 @@ class Manager extends Employee{
         System.out.println("Team Size is : " + teamSize);
     }
 }
-class Developer extends Employee{
+class Developer extends Employee_a{
     private String programmingLanguage;
 
     public Developer(String name,String id,int salary,String programmingLanguage){
@@ -46,7 +46,7 @@ class Developer extends Employee{
         System.out.println("The Programming Language is : " + programmingLanguage);
     }
 }
-class Intern extends Employee {
+class Intern extends Employee_a {
     private int duration;
 
     public Intern(
@@ -72,8 +72,8 @@ class Intern extends Employee {
 }
 public class EmployeeInheritance {
     public static void main(String[] args) {
-         Manager manager =
-            new Manager("Rahul", "101", 90000, 10);
+         Manager_a manager =
+            new Manager_a("Rahul", "101", 90000, 10);
 
         Developer developer =
             new Developer("Chaitanya", "102", 70000, "Java");

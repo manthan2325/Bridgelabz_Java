@@ -1,14 +1,14 @@
 import java.util.*;
 
-class Book{
+class Booksss{
     private String title;
     private String author;
     private double price;
     
-    public Book(){
+    public Booksss(){
         this("Unknown","Unknown",0.0);
     }
-    public Book(String title,String author,double price){
+    public Booksss(String title,String author,double price){
         this.title = title;
         this.author = author;
         this.price = price;
@@ -37,7 +37,7 @@ class Book{
         System.out.printf("Price : Rs. %.2f%n", price);
     }
 }
-public class Books {
+public class Bookss {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -50,8 +50,8 @@ public class Books {
         System.out.println("Enter the price");
         double price = sc.nextDouble();
 
-        Book book = new Book();
-        Book book1 = new Book(bookName,authorName,price);
+        Booksss book = new Booksss();
+        Booksss book1 = new Booksss(bookName,authorName,price);
 
         System.out.println("Book with Non-Parameterised constructor");
         book.display();

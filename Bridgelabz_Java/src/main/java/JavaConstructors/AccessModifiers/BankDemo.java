@@ -1,15 +1,15 @@
-class BankAccount {
+class BankAccountt {
     public final String accountNumber;     // public: readable by anyone, never changes
     protected String accountHolder;        // protected: this package + subclasses
     private double balance;                // private: only this class
 
     // Default constructor
-    public BankAccount() {
+    public BankAccountt() {
         this("Unknown", "Unknown", 0.0);
     }
 
     // Main constructor
-    public BankAccount(String accountNumber, String accountHolder, double balance) {
+    public BankAccountt(String accountNumber, String accountHolder, double balance) {
         this.accountNumber = cleanText(accountNumber);
         this.accountHolder = cleanText(accountHolder);
         this.balance = balance < 0 ? 0.0 : balance;
@@ -49,14 +49,14 @@ class BankAccount {
     }
 }
 
-class SavingsAccount extends BankAccount {
+class SavingsAccountt extends BankAccountt {
     private double interestRate;      // percent per year
 
-    public SavingsAccount() {
+    public SavingsAccountt() {
         this("Unknown", "Unknown", 0.0, 4.0);
     }
 
-    public SavingsAccount(String accountNumber, String accountHolder, double balance, double interestRate) {
+    public SavingsAccountt(String accountNumber, String accountHolder, double balance, double interestRate) {
         super(accountNumber, accountHolder, balance);
         this.interestRate = interestRate < 0 ? 0.0 : interestRate;
     }
@@ -95,8 +95,8 @@ class SavingsAccount extends BankAccount {
 
 public class BankDemo {
     public static void main(String[] args) {
-        BankAccount account = new BankAccount("ACC1001", "Arun", 5000.0);
-        SavingsAccount savings = new SavingsAccount("SAV2001", "Priya", 10000.0, 5.0);
+        BankAccountt account = new BankAccountt("ACC1001", "Arun", 5000.0);
+        SavingsAccountt savings = new SavingsAccountt("SAV2001", "Priya", 10000.0, 5.0);
 
         System.out.println("--- Bank Account ---");
         account.display();

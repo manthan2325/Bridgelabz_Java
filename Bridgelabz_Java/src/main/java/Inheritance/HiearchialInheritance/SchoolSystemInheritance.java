@@ -1,11 +1,11 @@
 import java.util.*;
 
 
-class Person {
+class Personnn {
     protected String name;
     protected int age;
 
-    public Person(String name, int age) {
+    public Personnn(String name, int age) {
         this.name = name;
         this.age = age;
     }
@@ -15,7 +15,7 @@ class Person {
     }
 }
 
-class Teacher extends Person {
+class Teacher extends Personnn {
     private String subject;
 
     public Teacher(String name, int age, String subject) {
@@ -32,7 +32,7 @@ class Teacher extends Person {
     }
 }
 
-class Students extends Person {
+class Students extends Personnn {
     private String grade;
 
     public Students(String name, int age, String grade) {
@@ -49,7 +49,7 @@ class Students extends Person {
     }
 }
 
-class Staff extends Person {
+class Staff extends Personnn {
     private String department;
 
     public Staff(String name, int age, String department) {

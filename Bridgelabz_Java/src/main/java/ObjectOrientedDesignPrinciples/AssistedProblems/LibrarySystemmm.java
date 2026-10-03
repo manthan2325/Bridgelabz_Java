@@ -1,10 +1,10 @@
 import java.util.*;
 
-class Books{
+class Boooks{
     private String title;
     private String author;
 
-    public Books(String title,String author){
+    public Boooks(String title,String author){
         this.title = title;
         this.author = author;
     }
@@ -14,33 +14,33 @@ class Books{
     }
 }
 
-class Library {
+class Libraryyy {
     private String name;
-    private ArrayList<Books> books;
+    private ArrayList<Boooks> books;
 
-    public Library(String name){
+    public Libraryyy(String name){
         this.name = name;
         this.books = new ArrayList<>();
     }
-    public void addBook(Books book){
+    public void addBook(Boooks book){
         books.add(book);
     }
     public void display(){
         System.out.println("Library Name is : " + name);
-        for(Books book : books){
+        for(Boooks book : books){
             book.display();
             System.out.println();
         }
     }
 }
-public class LibrarySystem {
+public class LibrarySystemmm {
     public static void main(String[] args) {
 
-        Books book1 = new Books("Wings of fire","Ron");
-        Books book2 = new Books("Harry Potter","J.K Rowling");
+        Boooks book1 = new Boooks("Wings of fire","Ron");
+        Boooks book2 = new Boooks("Harry Potter","J.K Rowling");
 
-        Library library1 = new Library("Central Library");
-        Library library2 = new Library("College Library");
+        Libraryyy library1 = new Libraryyy("Central Library");
+        Libraryyy library2 = new Libraryyy("College Library");
 
         library1.addBook(book1);
         library2.addBook(book2);

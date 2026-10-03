@@ -21,7 +21,7 @@ import java.util.*;
  * Date: 21-09-2026
  */
 
-class Product{
+class Producttt{
     // Instance variables: Each Product object has its own values
     private String productName;
     private double price;
@@ -29,10 +29,10 @@ class Product{
     // Class variable: Shared by all Product objects
     static int totalproducts;
 
-    public Product(){
+    public Producttt(){
         this("Item",0.0);
     }
-    public Product(String productName,double price){
+    public Producttt(String productName,double price){
         this.productName = productName;
         this.price = price;
         totalproducts++;
@@ -58,8 +58,8 @@ public class ProductDetails {
         System.out.println("Enter the product price: ");
         double price = sc.nextDouble();
 
-        Product p1 = new Product(name,price);
-        Product p2 = new Product(name,price);
+        Producttt p1 = new Producttt(name,price);
+        Producttt p2 = new Producttt(name,price);
 
         /*
          * Display the details of each Product object.
@@ -69,7 +69,7 @@ public class ProductDetails {
         p1.displayProductDetails();
         p2.displayProductDetails();
 
-        Product.displayTotalProducts();
+        Producttt.displayTotalProducts();
 
         sc.close();
     }

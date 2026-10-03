@@ -30,11 +30,11 @@ class Departments{
     }
 }
 
-class Company{
+class Companyy{
     private String name;
     private ArrayList<Departments> companies;
 
-    public Company(String name){
+    public Companyy(String name){
         this.name = name;
         this.companies = new ArrayList<>();
     }
