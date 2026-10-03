@@ -10,12 +10,22 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 13 - 02 Oct 2026
+**What I have done**
+- Solved all the Problems on this,final and static and Instance Operator questions
+
+**What I will do**
+- Pratice Problems on OOPS and model relationships
+
+**Issues faced**
+- Defining relationships between objects was one of the Issue Faced.
+
 ### Day 12 - 01 Oct 2026
 **What I have done**
 - Solved all the level 1 and level 2 on Java Constructors.
 
 **What I will do**
-- Pratice Problems on Java staic and Instance Variables and Operator Content.
+- Pratice Problems on Java static and Instance Variables and Operator Content.
 
 **Issues faced**
 - Faced issue in Constructor calling and passing arguements.
