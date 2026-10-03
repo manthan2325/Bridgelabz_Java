@@ -10,6 +10,16 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 14 - 03 Oct 2026
+**What I have done**
+- Solved all the Problems Inheritance covering all types.
+
+**What I will do**
+- Pratice Problems on Abstraction and Encapsulation
+
+**Issues faced**
+- Implementing Interface was were i was facing difficulty.
+
 ### Day 13 - 02 Oct 2026
 **What I have done**
 - Solved all the Problems on this,final and static and Instance Operator questions
