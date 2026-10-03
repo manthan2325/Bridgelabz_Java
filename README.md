@@ -13,6 +13,7 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 ### Day 14 - 03 Oct 2026
 **What I have done**
 - Solved all the Problems Inheritance covering all types.
+- Solves all Problems on OOPS and Model relationships. 
 
 **What I will do**
 - Pratice Problems on Abstraction and Encapsulation
