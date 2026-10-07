@@ -10,7 +10,7 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
-### Day 15 - 06 Oct 2026
+### Day 17 - 06 Oct 2026
 **What I have done**
 - Completed all the problems on Linked List under data Structures.
 
@@ -20,7 +20,7 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 **Issues faced**
 - Had a difficulty in understanding the movement of pointers.
 
-### Day 15 - 05 Oct 2026
+### Day 16 - 05 Oct 2026
 **What I have done**
 - Started Solving problems on Linked List under data Structures.
 
