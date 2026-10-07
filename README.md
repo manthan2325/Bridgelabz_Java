@@ -10,6 +10,26 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 15 - 06 Oct 2026
+**What I have done**
+- Completed all the problems on Linked List under data Structures.
+
+**What I will do**
+- Complete all problems on data structures covering stack, queue, HashMap.
+
+**Issues faced**
+- Had a difficulty in understanding the movement of pointers.
+
+### Day 15 - 05 Oct 2026
+**What I have done**
+- Started Solving problems on Linked List under data Structures.
+
+**What I will do**
+- Study about Linked list and declaring pointers , building nodes etc.
+
+**Issues faced**
+- No issue in understanding the Linked list.
+
 ### Day 15 - 04 Oct 2026
 **What I have done**
 - Solved all Problems on  Encapsulation, Polymorphism, Interface and Abstract Class
