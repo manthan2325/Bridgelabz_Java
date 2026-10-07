@@ -1,5 +1,14 @@
 import java.util.*;
 
+// Problem 1: Library and Books (Aggregation)
+//
+// Create a Library class that contains multiple Book objects.
+// The relationship between Library and Book is aggregation.
+//
+// A Library can have many Books,
+// but a Book can exist independently without a Library.
+//
+
 class Boooks{
     private String title;
     private String author;

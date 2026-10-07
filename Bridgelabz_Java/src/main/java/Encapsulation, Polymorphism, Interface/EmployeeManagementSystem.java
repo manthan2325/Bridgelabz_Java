@@ -48,7 +48,7 @@ class FullTimeEmployee extends Employee implements Department {
     void calculateSalary() {
         System.out.println("Salary: " + getSalary()); // private var,so getter function
     }
-
+    @Override
     public void assignDepartment(String department) {
         this.department = department;
     }
