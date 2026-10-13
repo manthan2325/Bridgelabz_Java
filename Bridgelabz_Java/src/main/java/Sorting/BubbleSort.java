@@ -1,20 +1,21 @@
 import java.util.Arrays;
-//we compare adjacents elements in order to sort the elements.
-public class BubbleSort{
+
+public class BubbleSort {
     public static void main(String[] args) {
-        int[] arr = {75,45,90,32,60};
+        
+        int[] arr = {5,3,1,8,4};
         int n = arr.length;
         for(int i=0;i<n-1;i++){
-            boolean swapped = false;
-            for(int j=0;j<n-1-i;j++){
+            boolean flag = false;
+            for(int j=0;j<n-i-1;j++){
                 if(arr[j] > arr[j+1]){
                     int temp = arr[j];
                     arr[j] = arr[j+1];
                     arr[j+1] = temp;
-                    swapped = true;
+                    flag = true;
                 }
             }
-            if(!swapped){
+            if(!flag){
                 break;
             }
         }
