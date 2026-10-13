@@ -10,17 +10,61 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
-### Day 17 - 06 Oct 2026
+### Day 21 - 12 Oct 2026
 **What I have done**
-- Completed all the problems on Linked List under data Structures.
+- Completed the review for the 3 week
+- Partially solved the questions on Sorting algorithms.
+
+**What I will do**
+- Complete all problems on linear data structures covering sorting and Searching algorithms.
+
+**Issues faced**
+- Quick sort was a bit difficult to understand as compared to other sorting algorithms.
+
+### Day 20 - 10 Oct 2026
+**What I have done**
+- Completed all the problems on Hash Map under data structures.
+- Revised java core Programming Fundamentals.
+
+**What I will do**
+- Complete all problems on data structures covering Sorting algorithms and Searching algorithms.
+
+**Issues faced**
+- Hash Map was completely new in java for me so i had to pratice on syntatical part of it.
+
+### Day 19 - 09 Oct 2026
+**What I have done**
+- Completed all the problems on Stack and Queue under data Structures.
+- Revised earlier concepts about OOPS.
+
+**What I will do**
+- Complete all problems on data structures covering HashMap.
+
+**Issues faced**
+- Sometimes understanding the logical part of the question was a bit tricky.
+
+### Day 18 - 08 Oct 2026
+**What I have done**
+- Completed the remaining problems under Linked list.
 
 **What I will do**
 - Complete all problems on data structures covering stack, queue, HashMap.
 
 **Issues faced**
+- No issue in learning stack and queue data structure.
+
+### Day 17 - 07 Oct 2026
+**What I have done**
+- Completed half the problems on Linked List under data Structures.
+
+**What I will do** 
+- Complete the remaining problems on Linked list
+- Complete all problems on data structures covering stack, queue, HashMap.
+
+**Issues faced**
 - Had a difficulty in understanding the movement of pointers.
 
-### Day 16 - 05 Oct 2026
+### Day 16 - 06 Oct 2026
 **What I have done**
 - Started Solving problems on Linked List under data Structures.
 
@@ -30,7 +74,7 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 **Issues faced**
 - No issue in understanding the Linked list.
 
-### Day 15 - 04 Oct 2026
+### Day 15 - 05 Oct 2026
 **What I have done**
 - Solved all Problems on  Encapsulation, Polymorphism, Interface and Abstract Class
 
