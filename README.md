@@ -10,6 +10,17 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 22 - 13 Oct 2026
+**What I have done**
+- Completed all the sorting problems
+- partially started with the searching algorithm questions.
+
+**What I will do**
+- Complete all problems on linear data structures covering Searching algorithms.
+
+**Issues faced**
+- Heap sort and Counting sort were difficult to understand.
+
 ### Day 21 - 12 Oct 2026
 **What I have done**
 - Completed the review for the 3 week
