@@ -10,7 +10,7 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
-Day 23 - 14 Oct 2026
+### Day 23 - 14 Oct 2026
 **What I have done**
 
 - Completed all the problems on String Builder and String Buffer
