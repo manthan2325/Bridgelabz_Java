@@ -10,6 +10,18 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 23 - 14 Oct 2026
+**What I have done**
+- Completed all the problems on String Builder and String Buffer
+- Completed all problems on Linear Search and Binary Search
+- Completed all Problems on File Reader and Input Stream Reader
+
+**What I will do**
+- Complete all problems on Runtime Analysis and Time Complexity
+
+**Issues faced**
+- File and Input Stream reader was a whole new concept to learn.
+
 ### Day 22 - 13 Oct 2026
 **What I have done**
 - Completed all the sorting problems
