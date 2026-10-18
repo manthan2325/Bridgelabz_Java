@@ -1,6 +1,6 @@
 import java.util.*;
 
-class SortStackRecursion_ {
+class SortStackRecursion_{
     static void insertStack(Stack<Integer> st,int element){
         if(st.isEmpty() || st.peek() <= element){
             st.push(element);

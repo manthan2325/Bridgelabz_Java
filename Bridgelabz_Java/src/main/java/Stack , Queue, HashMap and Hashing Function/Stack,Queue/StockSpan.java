@@ -1,43 +1,41 @@
-import java.util.*;
+/******************************************************************************
 
-public class StockSpan {
-    static int findspan(Stack<Integer> st,int element,Stack<Integer> spanst){
-        int cnt = 1;
-        while(!st.isEmpty() && st.peek() <= element){
-                cnt += spanst.pop();
+                            Online Java Compiler.
+                Code, Compile, Run and Debug java program online.
+Write your code in this editor and press "Run" button to execute it.
+
+*******************************************************************************/
+import java.util.Arrays;
+import java.util.Stack;
+
+class Span{
+    void Spann(int[] arr,int[] result){
+        Stack<Integer> st = new Stack<>();
+        
+        int n = arr.length;
+        for(int i=0;i<n;i++){
+            
+            while(!st.isEmpty() && arr[st.peek()] < arr[i]){
                 st.pop();
-        }
-        return cnt;
-    }
-    static void span(Stack<Integer> st,Stack<Integer> spanst,int[] arr,int index){
-        if(st.isEmpty()){
-            return;
-        }
-        int element = st.pop();
-
-        span(st,spanst,arr,index-1);
-        int val = findspan(st,element,spanst);
-        arr[index] = val;
-        st.push(element);
-        spanst.push(val);
-    }
-
-    public static void main(String[] args) {
-        Stack<Integer> st = new Stack<>();        
-        Stack<Integer> spanst = new Stack<>();
-        st.push(100);
-        st.push(80);
-        st.push(60);
-        st.push(70);
-        st.push(60);
-        st.push(75);
-        st.push(85);
-
-        int[] arr = new int[7];
-        int index = arr.length -1;
-        span(st,spanst,arr,index);
-        for(int i=0;i<arr.length;i++){
-            System.out.println("Span elements are : " + arr[i]);
+            }
+            
+            if(st.isEmpty()){
+                result[i] = i + 1;
+            }else{
+                result[i] = i - st.peek();
+            }
+            st.push(i);
         }
     }
+}
+public class StockSpan
+{
+	public static void main(String[] args) {
+		int[] prices = {100, 80, 60, 70, 60, 75, 85};
+        int[] result = new int[prices.length];
+        Span s = new Span();
+        s.Spann(prices, result);
+
+        System.out.println("Stock spans: " + Arrays.toString(result));
+	}
 }
