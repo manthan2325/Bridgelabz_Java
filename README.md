@@ -10,6 +10,50 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 27 - 19 Oct 2026
+**What I have done**
+- Completed questions on Java Collections and Genrics
+- Started with Streams and Lambda expressions.
+
+**What I will do**
+- Complete all the problems on lambda expressions and Streams.
+
+**Issues faced**
+- Collections was a huge set of questions to cover and was not easy. 
+
+### Day 26 - 17 Oct 2026
+**What I have done**
+- Solved questions on Java Collections and Genrics.
+
+**What I will do**
+- Complete all problems on Java Collections and Genrics.
+- Start with lambda expressions and Streams.
+
+**Issues faced**
+- Type parameter concepts were difficult and was easily getting confused.
+
+### Day 25 - 16 Oct 2026
+**What I have done**
+
+- Revised all the concepets of linear data structures and solved extra questions
+
+**What I will do**
+- Start with Java Collections and Genrics.
+
+**Issues faced**
+- Some new Concepts regarding the HashMaps and HashSet were there.
+
+### Day 24 - 15 Oct 2026
+**What I have done**
+
+- Completed all the problems on Runtime Analysis
+
+**What I will do**
+- Analyse and solve extra problems on linear data structures.
+
+**Issues faced**
+- Some Syntax were difficult to get it.
+
 ### Day 23 - 14 Oct 2026
 **What I have done**
 
