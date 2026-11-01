@@ -10,6 +10,138 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 39 - 31 Oct 2026
+**What I have done**
+- Completed the JDBC Questions
+- Completed the Tomcat Servlet concepts and questions.
+
+**What I will do**
+- Revise the Tomcat Servelets in more depth.
+
+**Issues faced**
+- Pratice Problem were a bit tough.
+
+### Day 38 - 30 Oct 2026
+**What I have done**
+- Started with JDBC Questions.
+- Completed with some of the remaining questions of SpringBoot.
+
+**What I will do**
+- Will Complete questions on JDBC
+
+**Issues faced**
+- Got Confused with Spring Concepts.
+
+### Day 37 - 29 Oct 2026
+**What I have done**
+- Praticed SQL queries and solved questions on SQL.
+
+**What I will do**
+- Will Complete questions on SQL and start with JDBC
+
+**Issues faced**
+- SQL had a lot of Commands.
+
+### Day 36 - 28 Oct 2026
+**What I have done**
+- Revised old Concepts and praticed pratice problems for review
+
+**What I will do**
+- Will Complete questions on Java Spring and also start with JDBC
+
+**Issues faced**
+- Revision took a bit of time.
+
+### Day 35 - 27 Oct 2026
+**What I have done**
+- Learning Springboot new features and its Annotations.
+
+**What I will do**
+- Will complete Java SpringBoot.
+- Start Solving questions on JDBC.
+
+**Issues faced**
+- SpringBoot contains many features
+
+### Day 34 - 26 Oct 2026
+**What I have done**
+- Completed questions on TDD.
+
+**What I will do**
+- Start solving question on Spring Boot and its Applications.
+
+**Issues faced**### Day 38 - 30 Oct 2026
+**What I have done**
+- Started with JDBC Questions.
+- Completed with some of the remaining questions of SpringBoot.
+
+**What I will do**
+- Will Complete questions on JDBC
+
+**Issues faced**
+- Got Confused with Spring Concepts.
+- Refactoring the code took time.
+
+### Day 33 - 25 Oct 2026
+**What I have done**
+- Completed questions on Multi Threading.
+
+**What I will do**
+- Start solving question on TDD.
+
+**Issues faced**
+- Exception Handling and Concurrency related faced some problems.
+
+### Day 32 - 24 Oct 2026
+**What I have done**
+- Completed questions on Design Patterns
+
+**What I will do**
+- Start solving question on Multi Threading.
+
+**Issues faced**
+- Some design patterns were a bit confusing and understanding the code was a bit difficult.
+
+### Day 31 - 23 Oct 2026
+**What I have done**
+- Completed questions on Java Annotations and File IO.
+
+**What I will do**
+- Start solving question on Design Patterns.
+
+**Issues faced**
+- Exception handling contained a lot of exceptions.
+
+### Day 30 - 22 Oct 2026
+**What I have done**
+- Completed questions on JUnit.
+
+**What I will do**
+- Start solving question on Java Annotations and File IO.
+
+**Issues faced**
+- Exception handling contained a lot of exceptions.
+
+### Day 29 - 21 Oct 2026
+**What I have done**
+- Completed questions on Exceptions and Regex.
+
+**What I will do**
+- Start solving question on JUnit
+
+**Issues faced**
+- Exception handling contained a lot of exceptions.
+
+### Day 28 - 20 Oct 2026
+**What I have done**
+- Completed questions on Lambda Expressions and Streams.
+
+**What I will do**
+- Start solving question on Java Exceptions and Regex.
+
+**Issues faced**
+- Exception handling contained a lot of exceptions.
+
 ### Day 27 - 19 Oct 2026
 **What I have done**
 - Completed questions on Java Collections and Genrics
