@@ -1,0 +1,24 @@
+package JavaExceptions.Assignment1;
+
+import java.io.*;
+
+
+public class ExceptionPropogation {
+    static void method1() {
+        int result = 10 / 0;
+        System.out.println(result);
+    }
+
+    static void method2() {
+        method1();
+    }
+
+    public static void main(String[] args) {
+        try {
+            method2();
+
+        } catch (ArithmeticException e) {
+            System.out.println("Handled exception in main");
+        }
+    }
+}
