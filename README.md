@@ -10,6 +10,67 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 45 - 11 Nov 2026
+**What I have done**
+- Completed the Factory Robot Hazard Control Project.
+
+**What I will do**
+- Start working on the OceanFleet App
+
+**Issues faced**
+- I was mainly getting confused with the junit code.
+
+### Day 44 - 6 Nov 2026
+**What I have done**
+- Started  Solving Projects on Factory Robot Hazard Control App
+
+**What I will do**
+- Complete the Project Factory Robot Hazard Control
+
+**Issues faced**
+- Some concepts were weak so was learning while building
+
+### Day 43 - 5 Nov 2026
+**What I have done**
+- Revised the TomCat Servlet and Solved some questions on it
+
+**What I will do**
+- Revise the Tomcat Servelets in more depth.
+
+**Issues faced**
+- Tomcat Servlet using manual configuration is more confusing.
+
+### Day 42 - 4 Nov 2026
+**What I have done**
+- Revised SpringBoot and JDBC
+
+**What I will do**
+- Start Working on Advance SpringBoot.
+
+**Issues faced**
+- Solving CRUD Operations was a bit confusing.
+
+### Day 41 - 3 Nov 2026
+**What I have done**
+- Solved SpringBoot Questions Partially.
+
+**What I will do**
+- Learning CRUD Operations
+
+**Issues faced**
+- Some Operations that include writing JUNIT code was a bit difficult.
+
+### Day 40 - 2 Nov 2026
+**What I have done**
+- Revised the Tomcat Servlets Concepts
+- Started learning SpringBoot Basic
+
+**What I will do**
+- Learn SpringBoot in more depth.
+
+**Issues faced**
+- Pratice SpringBoot in depth.
+
 ### Day 39 - 31 Oct 2026
 **What I have done**
 - Completed the JDBC Questions
